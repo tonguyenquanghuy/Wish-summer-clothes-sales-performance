@@ -12,9 +12,8 @@ Before visualising the data, I did some data manipulations as follows:
 - Create new variable: Revenue = units sold * unit price
 - Separate tags: gender tags (into "male" vs. "female"), product type (into "clothing" vs. "non-clothing"), and clothing variations (into "shirt", "dress", "top", "trousers", "suit" etc.)
 
-# KEY INSIGHTS & RECOMMENDATIONS
-## Key insights
-Key insights are illustrated as slide titles.
+# KEY INSIGHTS & RECOMMENDATIONS (detail in the "Wish summer clothes sales performance" file)
+## Key insights (illustrated as slide titles)
 
 ### Product analysis
 - Products sold are mainly female clothes.
@@ -27,7 +26,7 @@ Key insights are illustrated as slide titles.
 - Merchants utilise ad to boost performance.
 - Merchants employe promotional pricing to attract sales.
 
-## Recommendations
+## Recommendations (explained in the last slide)
 - To have a more well-rounded product sales portfolio, wish can try promoting male products as well as other non-clothing items.
 - Customer satisfaction and sales performance are closely correlated.
 - The promotional pricing should be used cautiously as it may not be cost-efficient in the long run.
