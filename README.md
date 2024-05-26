@@ -9,7 +9,7 @@ All the figures used in the report must be produced by Power BI.
 
 # DATA MANIPULATION
 Before visualising the data, I did some data manipulations as follows:
-- Create new variable: Revenue = units sold * unit price
+- Create new variables: 1) revenue = units sold * unit price, 2) discount price = retail price - price
 - Separate tags: gender tags (into "male" vs. "female"), product type (into "clothing" vs. "non-clothing"), and clothing variations (into "shirt", "dress", "top", "trousers", "suit" etc.)
 
 # KEY INSIGHTS & RECOMMENDATIONS (detail in the "Wish summer clothes sales performance" file)
